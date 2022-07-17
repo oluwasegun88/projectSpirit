@@ -12,6 +12,7 @@ public class Looping {
             System.out.printf("\n");
         }
         System.out.println("Update");
+        System.out.println("Update");
     }
 
 }
